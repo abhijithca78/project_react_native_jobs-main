@@ -1,9 +1,7 @@
 
 # React Native Job Finder
 
-
-![mobile app](https://github.com/abhijithca78/project_react_native_jobs-main/assets/83497961/261ebbf1-10c1-4ea1-a28b-b94a2f52bb86)
-
+![mobile app](https://github.com/abhijithca78/project_react_native_jobs-main/assets/83497961/ca585ecb-cc63-4b0f-a97f-be6c057918df)
 
 
 The Job Finder App is a React Native application designed to help users find and apply for job opportunities. This cross-platform mobile app provides a user-friendly interface for job seekers to search for jobs, view job details, and submit applications through online end client.
